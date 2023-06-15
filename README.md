@@ -1,5 +1,5 @@
 ## [Operation Starfall]
-Project team:[Aiden Dupker,Amy Nijpels,Brendan Ossebaar,Clyde van den Heetkamp,Elissa de Waard,Fiona Pronk,Jahvairo Monkau,Jason Siegersma,Kishan Vogelaar,Leon Kruijer,Leonita Salgado,Mauro Hendriks,Mike Huijgens,Mitchel Vonk,Nikki van Wijngaarden,Sienne Nijdam,Sten Kristel,Taffie Verheijen,Teo Paraszkiewicz,Tom Mulder,Tom Steiger]
+Project team:[Aiden Dupker, Amy Nijpels, Brendan Ossebaar, Clyde van den Heetkamp, Elissa de Waard, Fiona Pronk, Jahvairo Monkau, Jason Siegersma, Kishan Vogelaar, Leon Kruijer, Leonita Salgado, Mauro Hendriks, Mike Huijgens, Mitchel Vonk, Nikki van Wijngaarden, Sienne Nijdam, Sten Kristel, Taffie Verheijen, Teo Paraszkiewicz, Tom Mulder, Tom Steiger]
 
 Platform:
 [pc, console]
