@@ -40,5 +40,5 @@ A Metroidvania 2,5D Co-op game set in an 80's Saturday Morning Cartoon Sci-Fi wo
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Standup?csf=1&web=1&e=YcIdvh>
-   [RetrospectiveVerslagen] <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/retrospective?csf=1&web=1&e=iBdPPR>
+   [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/retrospective?csf=1&web=1&e=iBdPPR>
    
