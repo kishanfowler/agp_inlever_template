@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Operation Starfall]
+Project team:[Aiden Dupker,Amy Nijpels,Brendan Ossebaar,Clyde van den Heetkamp,Elissa de Waard,Fiona Pronk,Jahvairo Monkau,Jason Siegersma,Kishan Vogelaar,Leon Kruijer,Leonita Salgado,Mauro Hendriks,Mike Huijgens,Mitchel Vonk,Nikki van Wijngaarden,Sienne Nijdam,Sten Kristel,Taffie Verheijen,Teo Paraszkiewicz,Tom Mulder,Tom Steiger]
 
 Platform:
-[jullie platfom]
+[pc, console]
 
 ### Korte omschrijving van de game
-...
+A Metroidvania 2,5D Co-op game set in an 80's Saturday Morning Cartoon Sci-Fi world.
 
 ---
 #### Producten Werkproces 1
@@ -22,7 +22,6 @@ Platform:
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
    
@@ -35,11 +34,11 @@ Platform:
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
+   [Backlog]: <https://trello.com/b/gVEjIPgv/operation-starfall-product-backlog>
+   [Logboek]: <https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Logboek.docx?d=w4702047a93c84fe49744dbac1c82bf72&csf=1&web=1&e=ClT9T4>
+   [GameDesignDoc]: <https://docs.google.com/presentation/d/1SStOahchGxYaxwAIT60-1cJA8DK1BBRmz6APg9fc_Mk/edit#slide=id.p>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Standup?csf=1&web=1&e=YcIdvh>
+   [RetrospectiveVerslagen] <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/retrospective?csf=1&web=1&e=iBdPPR>
    
