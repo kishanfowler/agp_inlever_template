@@ -37,7 +37,7 @@ A Metroidvania 2,5D Co-op game set in an 80's Saturday Morning Cartoon Sci-Fi wo
    [Backlog]: <https://trello.com/b/gVEjIPgv/operation-starfall-product-backlog>
    [Logboek]: <https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Logboek.docx?d=w4702047a93c84fe49744dbac1c82bf72&csf=1&web=1&e=ClT9T4>
    [GameDesignDoc]: <https://docs.google.com/presentation/d/1SStOahchGxYaxwAIT60-1cJA8DK1BBRmz6APg9fc_Mk/edit#slide=id.p>
-   [ReviewVerslagen]: <>
+   [ReviewVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/SprintReview23.docx?d=wb0fee4648eee4846804a91ea3556f915&csf=1&web=1&e=eedLLf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/Standup?csf=1&web=1&e=YcIdvh>
    [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/K-F3M8BOHLOGame-AgileGameProductie/Gedeelde%20documenten/General/retrospective?csf=1&web=1&e=iBdPPR>
